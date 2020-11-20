@@ -1,1 +1,35 @@
-theme: jekyll-theme-minimal
+title: RushPlayer
+description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+
+url: 
+baseurl: "/long-haul"
+paginate_path: "blog/page:num/"
+permalink: blog/:title/
+
+# Header Option
+header: large
+
+markdown: kramdown
+highlighter: rouge
+plugins: [jekyll-paginate]
+paginate: 15
+
+navigation:
+  - title: Home
+    url: /index.html
+  - title: About
+    url: /about
+  - title: Contact
+    url: /contact
+
+social:
+  github: 
+  twitter: 
+  facebook: 
+  email: 
+  linkedin: 
+
+google_analytics: "UA-58263416-1"
+
+disqus:
+    shortname: 
