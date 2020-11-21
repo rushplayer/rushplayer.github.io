@@ -1,7 +1,12 @@
 ---
-layout: mypost
-title: RushPlayer智能除马参考之-rescan、rbpn、idgan
-categories: [技术]
+layout: post
+title: "RushPlayer智能除马参考之-rescan、rbpn、idgan"
+date: 2019-08-05
+author:     "run2rush"
+header-img: "img/post-bg-rwd.jpg"
+categories: 技术
+tags: 
+    - 算法
 ---
 个人公号：RushPlayer  
 个人网站：https://rushplayer.github.io/

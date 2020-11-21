@@ -1,7 +1,12 @@
 ---
-layout: mypost
-title: RushPlayer“一键下马”系列之-JavPlayer
-categories: [技术]
+layout: post
+title: "RushPlayer“一键下马”系列之-JavPlayer"
+date: 2020-04-06
+author:     "run2rush"
+header-img: "img/post-bg-rwd.jpg"
+categories: 技术
+tags: 
+    - 算法
 ---
 个人公号：RushPlayer  
 个人网站：https://rushplayer.github.io/
